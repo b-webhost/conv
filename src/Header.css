@@ -1,0 +1,12 @@
+.Header {
+    height: 72px;
+    background: #2c3e50;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.Header h1 {
+    font-size: 24px;
+    line-height: 72px;
+    margin: 0 0 0 24px;
+    color: white;
+}

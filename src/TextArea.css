@@ -1,0 +1,11 @@
+.TextArea {
+    height: 24px;
+    width: 200px;
+    border-radius: 8px;
+    border-color: #2c3e50;
+    outline: none;
+    padding: 8px;
+    font-size: 18px;
+    display: block;
+    margin: 16px;
+}
